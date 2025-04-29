@@ -14,8 +14,8 @@ const char* password = "123456789"; //WiFi Password
 // Use @myidbot to find out the chat ID of an individual or a group
 // You need to click "start" on a bot before it can message you 
 // Initialize Telegram BOT
-String chatId = "1367518509";
-String BOTtoken = "7796789559:AAH_S3e1SmNef7XIbaNU1QServNbsexHObM";
+String chatId = "xxxxxxxxxx";
+String BOTtoken = "7796789559:AAH_S3e1SmNef7XIbaNU1QxxxxxxxHObM";
 
 bool sendPhoto = false;
 bool withFlash = false;
